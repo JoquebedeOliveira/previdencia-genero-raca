@@ -107,6 +107,7 @@ projeto_previdencia_genero_raca/
 ## 5.1. Clonar o repositório
 
 git clone https://github.com/JoquebedeOliveira/previdencia-genero-raca.git
+
 cd previdencia-genero-raca
  
 ## 5.2. Criar e ativar ambiente virtual
